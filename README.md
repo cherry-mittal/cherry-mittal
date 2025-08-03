@@ -44,7 +44,7 @@ I'm a **Software Engineer** with over **5 years of experience in Salesforce deve
 ---
 
 ### 📫 Let's Connect
-- 📍 Based in Singapore | Open to remote and global opportunities  
+- 📍 Based in Chicago | Open to remote and global opportunities  
 - 💼 [LinkedIn](https://www.linkedin.com/in/cherry-mittal/)  
 - 💻 [Portfolio & Projects](https://github.com/cherry-mittal)
 
