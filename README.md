@@ -36,7 +36,7 @@ I'm a **Software Engineer** with over **5 years of experience in Salesforce deve
 
 ### 📌 Featured Projects
 - 🐍 [**Poisonous Mushroom Classifier**](https://github.com/cherry-mittal/poisonous-mushrooms): AutoML with AutoGluon on a binary classification task  
-- 🖋️ [**Spam Detector**](https://github.com/cherry-mittal/spam-detector): NLP classification using TF-IDF + Naive Bayes  
+- 🖋️ [**Spam Detector**](https://github.com/cherry-mittal/spam-classifier): NLP classification using different models and comparing them 
 - 🔢 [**MNIST Digit Recognizer**](https://github.com/cherry-mittal/mnist-digit-classification): CNN achieving 99% accuracy on handwritten digits  
 - 🚢 [**Titanic Survival Prediction**](https://github.com/cherry-mittal/Titanic-Survival-Prediction): Classic classification problem solved using Random Forests  
 
