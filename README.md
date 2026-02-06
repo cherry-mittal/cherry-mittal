@@ -35,11 +35,11 @@ I'm a **Software Engineer** with over **5 years of experience in Salesforce deve
 ---
 
 ### 📌 Featured Projects
-- [**Vision Language Model**](): VLM from scratch with Paligemma model
+- [**Vision Language Model**](https://github.com/cherry-mittal/vlm_system): VLM from scratch with Paligemma model
 - [**nanoGPT**](): GPT from scratch
-- 🐍 [**Poisonous Mushroom Classifier**](https://github.com/cherry-mittal/poisonous-mushrooms): AutoML with AutoGluon on a binary classification task  
-- 🖋️ [**Spam Detector**](https://github.com/cherry-mittal/spam-classifier): NLP classification using different models and comparing them 
-- 🚢 [**Titanic Survival Prediction**](https://github.com/cherry-mittal/Titanic-Survival-Prediction): Classic classification problem solved using Random Forests  
+- [**Poisonous Mushroom Classifier**](https://github.com/cherry-mittal/poisonous-mushrooms): AutoML with AutoGluon on a binary classification task  
+- [**Spam Detector**](https://github.com/cherry-mittal/spam-classifier): NLP classification using different models and comparing them 
+- [**Titanic Survival Prediction**](https://github.com/cherry-mittal/Titanic-Survival-Prediction): Classic classification problem solved using Random Forests  
 
 ---
 
