@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 
 # 👋 Hi there, I'm Cherry Mittal!
 
-I'm a **Software Engineer** with over **5 years of experience in Salesforce development**, now **transitioning into the exciting world of AI and Machine Learning**. I’m passionate about using data to solve real-world problems and constantly building projects to sharpen my skills in ML, deep learning, and AI systems.
-
 ---
 
 ### 🔧 Tech Stack & Tools
