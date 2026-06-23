@@ -33,10 +33,10 @@ Here are some ideas to get you started:
 ---
 
 ### 📌 Featured Projects
+- [**RAG Chatbot**](https://github.com/cherry-mittal/RAG-Chatbot): RAG Chatbot using NASA transcript and answer related questions.
 - [**Vision Language Model**](https://github.com/cherry-mittal/vlm_system): VLM from scratch with Paligemma model
 - [**nanoGPT**](https://github.com/cherry-mittal/GPT-from-scratch): GPT from scratch
 - [**Music Recommender System**](https://github.com/cherry-mittal/music_recommender_system): Content Based Music Recommender System
-- [**RAG Chatbot**](https://github.com/cherry-mittal/RAG-Chatbot): RAG Chatbot using NASA transcript and answer related questions.
 - [**Poisonous Mushroom Classifier**](https://github.com/cherry-mittal/poisonous-mushrooms): AutoML with AutoGluon on a binary classification task   
 
 ---
